@@ -61,6 +61,8 @@ http://127.0.0.1:5000
 
 ## Deployment (Render)
 
+https://car-price-predictor-xmvc.onrender.com
+
 Build Command:
 pip install -r requirements.txt  
 
