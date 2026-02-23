@@ -16,7 +16,7 @@ A machine learning web application that predicts the **resale price of a used ca
 - 🏷️ **Dynamic Model Filtering** — Car models update automatically based on the selected company
 - 📊 **Linear Regression Model** — Trained on real-world Indian used-car market data
 - 🌐 **CORS Enabled** — API-friendly backend using `flask-cors`
-- ☁️ **Production-Ready** — Deployed via Gunicorn, compatible with Heroku
+- ☁️ **Production-Ready** — Deployed via Render
 
 ---
 
