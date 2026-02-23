@@ -41,7 +41,7 @@ Car_Predictor/
 ├── LinearRegressionModel.pkl # Pre-trained Linear Regression model
 ├── Cleaned_Car_data.csv      # Cleaned dataset used for populating dropdowns
 ├── requirements.txt          # Python dependencies
-├── Procfile                  # Heroku deployment config (Gunicorn)
+├── Procfile                  
 │
 ├── templates/
 │   └── index.html            # Main UI (Jinja2 template)
